@@ -1,4 +1,4 @@
-### Hi, I'm João (or bangoim, if you wish)
+### Hi, I'm João (or Jack, if you wish)
 
 - 🖥️ I've been coding in Python primarily for three years
 - 🏗️ I’m learning Go and increasing my Python skills at the moment
